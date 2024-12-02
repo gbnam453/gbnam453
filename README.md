@@ -1,3 +1,35 @@
+<h1>Capsule Render Examples</h1>
+
+    <!-- Waving Style -->
+    <h2>Waving Style</h2>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20World!&fontSize=90" alt="waving-banner">
+
+    <!-- Rectangular Style -->
+    <h2>Rectangular Style</h2>
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=My%20Project&fontSize=40" alt="rect-banner">
+
+    <!-- Rounded Style -->
+    <h2>Rounded Style</h2>
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&text=Welcome!&fontSize=50" alt="rounded-banner">
+
+    <!-- Transparent Text Background -->
+    <h2>Transparent Background</h2>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:900C3F&textBg=transparent&text=Transparent%20Text&fontSize=80" alt="transparent-banner">
+
+    <!-- Custom Font and Gradient -->
+    <h2>Custom Font and Gradient</h2>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=linear-gradient(90deg,%20#1e3c72,%20#2a5298)&text=Custom%20Gradient&fontSize=75" alt="custom-gradient-banner">
+
+    <!-- Custom Height and Style -->
+    <h2>Custom Height and Style</h2>
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=purple&height=100&text=Compact%20Capsule&fontSize=40" alt="compact-banner">
+
+    <!-- Wave Style with Different Colors -->
+    <h2>Wave Style with Different Colors</h2>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:FFEB3B&text=Wave%20Colors&fontSize=85" alt="wave-colors-banner">
+
+
+
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
